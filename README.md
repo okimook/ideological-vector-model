@@ -1,6 +1,9 @@
 # Ideological Vector Model (IVM) — Dataset of 42 Political Actors
 
 Data accompanying **"Ideological Vector Model (IVM): A Semantic-Based Approach to Quantitative Political Analysis"** (Kimook, 2026). 
+
+Full article is available at https://doi.org/10.5281/zenodo.21127124
+
 The model represents political figures as vectors in a 9-dimensional ideological space and measures proximity between them with a normalized Euclidean distance — the Semantic Distance Score (SDS).
 
 This repository holds the two source files behind every number in the paper: the raw ideological coordinates, and the pairwise distance matrix computed from them.
